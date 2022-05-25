@@ -1,0 +1,35 @@
+a{
+    text-decoration: none;
+    color: none;
+}
+.fisrt-container {
+    background-color: black;
+}
+
+.barra-lateral {
+    background-color: #F6AE2D;
+    margin: auto;
+    padding-bottom: 100%;
+}
+
+.img-barra-lateral {
+    width: 100%;
+    padding: 0;
+}
+.img-pessoa{
+    width:200px;
+    border-radius: 20px 20px 20px 20px;
+    -moz-border-radius: 20px 20px 20px 20px;
+    -webkit-border-radius: 20px 20px 20px 20px;
+}
+
+.n2 {
+    text-align: left;
+}
+
+.n3 {
+    font-size: 1.25rem;
+    margin:auto;
+    text-align: center;
+    padding:10px 30px;;
+}
